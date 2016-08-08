@@ -1,0 +1,25 @@
+_repo: Boy-Scouts-in-Northern-Wilds--Or-The-Signal-from-the-Hills_12526
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fletcher, Archibald Lee
+    gutenberg_agent_id: '4406'
+    url: http://www.gutenberg.org/2009/agents/4406
+description: The four Boy Scouts from Chicago go to the wilds of Hudson Bay country,
+  Ontario, on a difficult and dangerous mission for Mr. Horton, noted criminal lawyer.
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12526'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Boy Scouts -- Juvenile fiction'
+- !lcsh 'Northwest Territories -- Juvenile fiction'
+- GITenberg
+title: Boy Scouts in Northern Wilds; Or, The Signal from the Hills
+url: http://www.gutenberg.org/ebooks/12526
